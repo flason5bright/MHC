@@ -164,6 +164,10 @@
     <Compile Include="Migrations\20200406050255_Initial.designer.cs">
       <DependentUpon>20200406050255_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20200407122431_ModifyUser.cs" />
+    <Compile Include="Migrations\20200407122431_ModifyUser.designer.cs">
+      <DependentUpon>20200407122431_ModifyUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\MHCContextModelSnapshot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
